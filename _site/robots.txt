@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://ldennedy.github.io/ldennedy/sitemap.xml
